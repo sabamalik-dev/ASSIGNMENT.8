@@ -1,0 +1,41 @@
+ .second{
+    position: relative;
+    bottom: 210px;
+    left: 300px;
+ }
+ .item{
+    padding: 10px;
+    margin: 10px;
+ }
+ tr,td{
+    padding: 30px;
+
+ }
+.para{
+    position: relative;
+    top: 0px;
+    left: 200px;
+    font-size: 20px;
+    padding: 15px;
+    margin: 15px;
+}
+button{
+    position: relative;
+    top: 0px;
+    left: 50px;
+}
+.door{
+   position: relative;
+   top: 0px;
+   left: 50px;
+}
+.container{
+   height: 200px;
+   width: 200px;
+   display: inline;
+   justify-content: space-between;
+   align-items:center;
+   padding: 23px;
+   flex-wrap: wrap;
+}
+
